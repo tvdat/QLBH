@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace QLBH.DAL
 {
@@ -10,5 +12,9 @@ namespace QLBH.DAL
     /// </summary>
     class Database 
     {
+        public static SqlConnection Connect()
+        {
+            return new SqlConnection();
+        }
     }
 }

@@ -5,3 +5,4 @@ D:\Cloud\Google Drive\FALL 2014\INF205 - Dien toan dam may\Assignment\QLBH\QLBH\
 D:\Cloud\Google Drive\FALL 2014\INF205 - Dien toan dam may\Assignment\QLBH\QLBH\obj\x86\Debug\QLBH.csproj.GenerateResource.Cache
 D:\Cloud\Google Drive\FALL 2014\INF205 - Dien toan dam may\Assignment\QLBH\QLBH\obj\x86\Debug\QLBH.exe
 D:\Cloud\Google Drive\FALL 2014\INF205 - Dien toan dam may\Assignment\QLBH\QLBH\obj\x86\Debug\QLBH.pdb
+D:\Cloud\Google Drive\FALL 2014\INF205 - Dien toan dam may\Assignment\QLBH\QLBH\obj\x86\Debug\QLBH.csprojResolveAssemblyReference.cache
